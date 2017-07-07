@@ -1,0 +1,39 @@
+.ant-upload-select-picture-card i {
+    font-size: 28px;
+    color: #999;
+}
+
+.ant-upload-select-picture-card .ant-upload-text {
+    margin-top: 8px;
+    font-size: 12px;
+    color: #666;
+}
+
+.ant-upload-list-item {
+    width: 600px !important;
+    height: 150px !important;
+    display: block !important;
+    margin: 0 0 10px 0 !important;
+}
+
+.ant-upload-select-picture-card {
+    width: 600px !important;
+    height: 150px !important;
+}
+
+.ant-upload {
+    padding: 27px 0 !important;
+}
+
+.imgUrlInput {
+    margin:0 15px 10px 0;
+    width: 500px;
+}
+
+.bannerDecollate {
+    width: 100%;
+    border: 1px solid #999;
+}
+.buttonDisplay{
+    display: none;
+}

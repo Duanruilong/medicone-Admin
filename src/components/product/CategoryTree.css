@@ -1,0 +1,42 @@
+.decollate {
+    width: 1px;
+    height: 600px;
+    border-left: 1px solid #999;
+}
+
+.treeBox {
+    font-size: 15px;
+}
+
+.treeBox li ul li ul li a {
+    margin-left: -17px;
+}
+.treeItemBackgrund3 {
+    width: 120px;
+}
+.treeItemBackgrund2 {
+    width: 130px;
+}
+.treeItemBackgrund1{
+	background-color:#BCD2EE;
+	width: 140px;
+}
+
+.ant-popover-inner-content {
+    padding: 8px 0;
+}
+
+.treePopverContent {
+    text-align: center;
+    width: 80px;
+    padding: 5px 0;
+}
+
+.treePDecollate {
+    margin: 5px 0;
+    border-bottom: 1px solid #DCDCDC;
+}
+.treeText{
+    display: inline-block;
+    width: 140px;
+}

@@ -1,0 +1,38 @@
+.hotBox {
+    width: 120px;
+}
+
+.hot-custom-image {
+    width: 120px;
+    height: 100px;
+}
+
+.hotImg {
+    width: 120px;
+    height: 100px;
+}
+
+.hotSelect .ant-select-selection {
+    border-radius: 0;
+}
+
+.colBottom {
+    margin-bottom: 16px;
+}
+
+.hotUpload .ant-upload-select-picture-card {
+    margin: 10px 15px 10px 0;
+    width: 120px !important;
+    height: 91px !important;
+}
+
+.hotUpload .ant-upload-list-item {
+    display: inline-block !important;
+    margin: 10px 15px 10px 0 !important;
+    width: 120px !important;
+    height: 91px !important;
+}
+
+.hotUpload .ant-upload {
+    padding: 18px !important;
+}

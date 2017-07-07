@@ -1,0 +1,11 @@
+.telInput{
+	width: 400px;
+	margin: 20px 0;
+}
+.sysUploadBox .ant-upload-select-picture-card{
+	margin: 20px 0;
+	width: 150px !important;
+}
+.editSuccess{
+	width: 400px;
+}

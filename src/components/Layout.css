@@ -1,0 +1,52 @@
+.logo {
+    float: left;
+    padding: 10px 0;
+    height: 80px;
+}
+
+.logo img {
+    width: 45px;
+    height: 45px;
+}
+
+.logoTitle {
+    margin-left: 20px;
+    display: inline-block;
+    width: 300px;
+    height: 65px;
+    font-size: 15px;
+    color: #FFFFFF;
+    line-height: 65px;
+}
+
+.ant-menu-vertical > .ant-menu-item,
+.ant-menu-inline > .ant-menu-item,
+.ant-menu-item-group-list > .ant-menu-item,
+.ant-menu-vertical > .ant-menu-submenu > .ant-menu-submenu-title,
+.ant-menu-inline > .ant-menu-submenu > .ant-menu-submenu-title,
+.ant-menu-item-group-list > .ant-menu-submenu > .ant-menu-submenu-title {
+    font-size: 14px
+}
+
+.ant-menu-root.ant-menu-vertical,
+.ant-menu-root.ant-menu-inline {
+    height: 620px;
+}
+
+.ant-layout-header {
+    background-color: rgba(162, 161, 161, 0.75);
+}
+
+.ant-menu-inline,
+.ant-menu-vertical {
+    border-right: 0;
+}
+
+.ant-layout-sider {
+    background-color: rgba(255, 255, 255, 0.75);
+    border-right: 1px solid #e9e9e9;
+}
+
+.loginOut {
+    float: right;
+}

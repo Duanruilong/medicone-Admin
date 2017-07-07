@@ -1,0 +1,22 @@
+.searchBox {
+    margin-bottom: 15px;
+}
+
+.requirementModal .ant-modal-body {
+    padding: 15px 70px !important;
+}
+
+.modalTitle {
+    text-align: center;
+}
+
+.modalTitle a {
+    float: right;
+    margin-right: 40px;
+}
+.displayA{
+	display: none;
+}
+.tableDeleteBack{
+	background-color: #FFEFDB;
+}

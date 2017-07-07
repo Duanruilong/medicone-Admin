@@ -1,0 +1,19 @@
+.partner-custom-image{
+	width: 100px;
+    height: 60px;
+}
+.partner-custom-card{
+	padding: 5px 0 5px 20px;
+}
+.partner-name{
+	margin: 0 0 8px -20px;
+	width: 100px;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	text-align: center;
+	border-bottom: 1px solid #E0E0E0;
+}
+.partner-box{
+	width: 900px;
+}

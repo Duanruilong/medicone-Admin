@@ -1,0 +1,15 @@
+.ant-modal-body {
+    padding: 30px;
+}
+
+.ant-input-preSuffix-wrapper {
+    margin: 15px 0;
+}
+
+.treeItemButtom {
+    display: none;
+}
+
+.treeItem:hover .treeItemButtom {
+    display: inline;
+}

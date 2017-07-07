@@ -1,0 +1,27 @@
+.loginBox {
+    height: 1800px;
+    text-align: center;
+    padding-top: 150px;
+    background-color: #F5FFFA;
+}
+
+.loginFormBox {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.loginForm {
+    max-width: 300px;
+}
+
+.loginFormForgot {
+    float: right;
+}
+
+.loginFormButton {
+    width: 100%;
+}
+.loginText{
+  font-size: 28px;
+  color:#E0E0E0;
+}

@@ -1,0 +1,42 @@
+.checkboxContent{
+	display: inline-block;
+	letter-spacing:4px;
+}
+
+.fromItem{
+	margin: 15px 0;
+}
+.checkboxInput{
+	width: 70px;
+}
+.productUpload .ant-upload-select-picture-card{
+	margin: 10px 15px 10px 0;
+    width: 150px !important;
+    height: 150px !important;
+}
+.productUpload .ant-upload-list-item{
+	display: inline-block !important;
+	margin: 10px 15px 10px 0 !important;
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.productTrait .ant-form-item-control {
+	width: 560px;
+}
+.aftermarket{
+	height: 300px !important;
+}
+.charactersInput{
+	height: 180px !important;
+}
+.editProductButtom{
+	margin: 15px 0;
+	text-align: center;
+}
+.editProductButtom button{
+	margin: 0 10px;
+}
+.scopeInput{
+	width: 280px;
+}
